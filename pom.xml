@@ -22,6 +22,7 @@
             <artifactId>selenium-java</artifactId>
             <version>4.1.1</version>
         </dependency>
+
     </dependencies>
     <properties>
         <maven.compiler.source>16</maven.compiler.source>
